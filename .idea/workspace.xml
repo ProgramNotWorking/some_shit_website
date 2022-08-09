@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4a86b2d-fcb4-4f4a-b4d4-59b44acc8f5e" name="Changes" comment="">
+    <list default="true" id="d4a86b2d-fcb4-4f4a-b4d4-59b44acc8f5e" name="Changes" comment="aga">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,8 +62,16 @@
       <workItem from="1660008860582" duration="667000" />
       <workItem from="1660011423740" duration="1571000" />
       <workItem from="1660054128501" duration="1518000" />
-      <workItem from="1660059876890" duration="3887000" />
+      <workItem from="1660059876890" duration="6837000" />
     </task>
+    <task id="LOCAL-00001" summary="aga">
+      <created>1660063819042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660063819042</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aga" />
+    <option name="LAST_COMMIT_MESSAGE" value="aga" />
   </component>
 </project>
