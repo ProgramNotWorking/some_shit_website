@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&family=Nanum+Gothic:wght@700&display=swap');
+
+body {
+    max-width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    /*background-color: #a864a8;*/
+    background: rgb(18,69,136);
+    background: linear-gradient(41deg, rgba(18,69,136,1) 0%, rgba(204,34,199,1) 43%, rgba(2,185,184,1) 100%);
+    font-family: 'Kanit', sans-serif;
+}
+
+#main-header {
+    margin: 0 10px;
+}
+
+.avatar {
+    border-radius: 20px;
+    border: black solid 5px;
+    width: 200px;
+    margin-left: 435px;
+}
+
+#repositories-header {
+    margin: 0 10px;
+    background-color: #ceacf1;
+    border-radius: 20px;
+    border: 5px solid;
+    text-align: center;
+    font-size: 72px;
+}
+
+.repositories {
+    /*background-color: #ffbec9;*/
+    background-color: #ffbfeb;
+    border-radius: 20px;
+    border: 5px solid;
+    margin: 10px;
+}
+
+.repositories p {
+    padding-right: 5%;
+    text-align: right;
+    padding-top: 45px;
+    font-size: 42px;
+}
+
+.picture {
+    padding: 20px;
+    width: 25%;
+    border-radius: 50%;
+}
+
+.social-links {
+    margin-left: 1044px;
+}
+
+.logo {
+    width: 40px;
+    border-radius: 50%;
+}
